@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [COVID-19 DASHBOARD REACT](https://itsmedeepu.github.io/covid19react/)
 
-- 👨‍💻 All of my projects are available at [https://itsmedeepu.github.io/portfolio/](https://itsmedeepu.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://itsmedeepu.github.io/portfolio/](https://github.com/itsmedeepu)
 
 - 📫 How to reach me **deepaksdeep222@gmail.com**
 
