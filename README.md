@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🎓 Currently pursuing B.E MECHANICAL ENGINEERING 7th Sem CMR INSTITUTE OF TECHNOLOGY BANGLORE
+
 - 🔭 I’m currently working on [student management system](http://deepak.42web.io/sms)
 
 - 🌱 I’m currently learning **MERN STACK**
@@ -20,12 +22,16 @@
 - 📄 Know about my experiences [https://itsmedeepu.github.io/portfolio/](https://itsmedeepu.github.io/portfolio/)
 
 - 🤟 Know my recent projects 🤟
-   <p>1.Covid-19 Dashboard ---> [click here](https://itsmedeepu.github.io/covid19)</p>
-   <p>2.Covid-19 Dashboard (React)----> [click here](https://itsmedeepu.github.io/covid19react)</p>
-   <p>3. Student management system----->[click here](http://deepak.42web.io/sms]</p>
-   <p>4.To-do ----->[click here](http://deepak.42web.io/todo)</p>
+   <p>1.Covid-19 Dashboard ---> (https://itsmedeepu.github.io/covid19)</p>
+   <p>2.Covid-19 Dashboard (React)---->(https://itsmedeepu.github.io/covid19react)</p>
+   <p>3. Student management system----->(http://deepak.42web.io/sms]</p>
+   <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
 
-
+- 😉 My hobbies 😉
+  <p>WEB DESIGNING</p>
+  <p>Watching you tube tutorial related to Web designing</p>
+  <p>Playing volleyball</p>
+  <p>Watching Pranks</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
