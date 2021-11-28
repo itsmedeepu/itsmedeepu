@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 Currently pursuing B.E MECHANICAL ENGINEERING 7th Sem CMR INSTITUTE OF TECHNOLOGY BANGLORE
+- 🎓 Currently pursuing B.E MECHANICAL ENGINEERING 7th Sem CMR INSTITUTE OF TECHNOLOGY BANGLORE.
+
+- 🎒 Completed my Intermediate(12th) at Amara jyothi pu college with percentage of 79.5%
+
+- 🏫 Completed my 10th at Amara jyothi high school with percentage of 84.80
 
 - 🔭 I’m currently working on [student management system](http://deepak.42web.io/sms)
 
@@ -26,12 +30,22 @@
   - <p>2.Covid-19 Dashboard (React)---->(https://itsmedeepu.github.io/covid19react)</p>
   - <p>3. Student management system----->(http://deepak.42web.io/sms]</p>
   - <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
-
+- 👨‍💻 Programming languages known👨‍💻
+  -python(intermediate)
+  -c(basics)
+  -java(basics)
+  
 - 😉 My hobbies 😉
   - <p>WEB DESIGNING</p>
   - <p>Watching you tube tutorial related to Web designing</p>
   - <p>Playing volleyball</p>
   - <p>Watching Pranks</p>
+ 
+- ✈️ Languages Known✈️
+  -Kannada(mother tongue)
+  -English
+  -Telugu
+  -Hindi(intermediate)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
