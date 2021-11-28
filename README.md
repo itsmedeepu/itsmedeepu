@@ -31,7 +31,7 @@
   - <p>3. Student management system----->(http://deepak.42web.io/sms]</p>
   - <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
 - 👨‍💻 Programming languages known👨‍💻
-  - <p>python(intermediate)</p>
+  - <p>Python(intermediate)</p>
   - <p>c(basics)</p>
   - <p>java(basics)</p>
   
