@@ -31,9 +31,9 @@
   - <p>3. Student management system----->(http://deepak.42web.io/sms]</p>
   - <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
 - 👨‍💻 Programming languages known👨‍💻
-  -python(intermediate)
-  -c(basics)
-  -java(basics)
+  -<p>python(intermediate)</p>
+  -<p>c(basics)</p>
+  -<p>java(basics)</p>
   
 - 😉 My hobbies 😉
   - <p>WEB DESIGNING</p>
@@ -42,10 +42,10 @@
   - <p>Watching Pranks</p>
  
 - ✈️ Languages Known✈️
-  -Kannada(mother tongue)
-  -English
-  -Telugu
-  -Hindi(intermediate)
+  -<p>Kannada(mother tongue)</p>
+  -<p>English</p>
+  -<p>Telugu</p>
+  -<p>Hindi(intermediate)</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
