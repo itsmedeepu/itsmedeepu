@@ -20,10 +20,10 @@
 - 📄 Know about my experiences [https://itsmedeepu.github.io/portfolio/](https://itsmedeepu.github.io/portfolio/)
 
 - 🤟 Know my recent projects 🤟
-   1.Covid-19 Dashboard ---> [click here](https://itsmedeepu.github.io/covid19)
-   2.Covid-19 Dashboard (React)----> [click here](https://itsmedeepu.github.io/covid19react)
-   3. Student management system----->[click here](http://deepak.42web.io/sms]
-   4.To-do ----->[click here](http://deepak.42web.io/todo)
+   <p>1.Covid-19 Dashboard ---> [click here](https://itsmedeepu.github.io/covid19)</p>
+   <p>2.Covid-19 Dashboard (React)----> [click here](https://itsmedeepu.github.io/covid19react)</p>
+   <p>3. Student management system----->[click here](http://deepak.42web.io/sms]</p>
+   <p>4.To-do ----->[click here](http://deepak.42web.io/todo)</p>
 
 
 <h3 align="left">Connect with me:</h3>
