@@ -11,7 +11,7 @@
 
 - 🎒 Completed my Intermediate(12th) at Amara jyothi pu college with percentage of 79.5%
 
-- 🏫 Completed my 10th at Amara jyothi high school with percentage of 84.80
+- 🏫 Completed my 10th at Amara jyothi high school with percentage of 84.80%
 
 - 🔭 I’m currently working on [student management system](http://deepak.42web.io/sms)
 
