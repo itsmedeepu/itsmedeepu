@@ -32,8 +32,6 @@
   - <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
 - 👨‍💻 Programming languages known👨‍💻
   - <p>Python(intermediate)</p>
-  - <p>c(basics)</p>
-  - <p>java(basics)</p>
   
 - 😉 My hobbies 😉
   - <p>WEB DESIGNING</p>
