@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **deepaksdeep222@gmail.com**
 
-- 📄 Know about my experiences [https://itsmedeepu.github.io/portfolio/](https://itsmedeepu.github.io/portfolio/)
+- 📄 Know about my experiences [https://itsmedeepu.github.io/myportfolio/](https://itsmedeepu.github.io/myportfolio/)
 
 - 🤟 Know my recent projects 🤟
   - <p>1.Covid-19 Dashboard ---> (https://itsmedeepu.github.io/covid19)</p>
