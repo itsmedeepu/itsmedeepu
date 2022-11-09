@@ -4,15 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedeepu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedeepu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu" alt="itsmedeepu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu" alt="itsmedeepu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!-- - 🎓 Currently pursuing B.E MECHANICAL ENGINEERING 7th Sem CMR INSTITUTE OF TECHNOLOGY BANGLORE.
-
-- 🎒 Completed my Intermediate(12th) at Amara jyothi pu college with percentage of 79.5%
-
-- 🏫 Completed my 10th at Amara jyothi high school with percentage of 84.80% -->
 
 - 🔭 I’m currently working on [student management system](http://deepak.42web.io/sms)
 
