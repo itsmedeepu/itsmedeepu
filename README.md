@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedeepu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedeepu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy#dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu&theme=tokyonight" alt="itsmedeepu" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy#dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu&theme=tokyonight" alt="itsmedeepu" /></a> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
