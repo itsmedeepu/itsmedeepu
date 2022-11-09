@@ -1,37 +1,13 @@
 <p align="center"><img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="itsmedeepu"/></p>
 <h1 align="center">Hi 👋, I'm DEEPAK S</h1>
-<h3 align="center">Welcome to my GitHub Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedeepu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedeepu" /> </p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy#dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu&theme=tokyonight" alt="itsmedeepu" /></a> 
+<p align="left" <a href="https://github.com/ryo-ma/github-profile-trophy#dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu&theme=tokyonight&column=7&margin-w=15" alt="itsmedeepu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-- 🔭 I’m currently working on [student management system](http://deepak.42web.io/sms)
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👯 I’m looking to collaborate on [COVID-19 DASHBOARD REACT](https://itsmedeepu.github.io/covid19react/)
-
-- 👨‍💻 All of my projects are available at [Click here](https://github.com/itsmedeepu)
-
-- 📫 How to reach me **deepaksdeep222@gmail.com**
-
-- 📄 Know about my experiences [https://itsmedeepu.github.io/myportfolio/](https://itsmedeepu.github.io/myportfolio/)
-
-- 🤟 Know my recent projects 🤟
-  - <p>1.Covid-19 Dashboard ---> (https://itsmedeepu.github.io/covid19)</p>
-  - <p>2.Covid-19 Dashboard (React)---->(https://itsmedeepu.github.io/covid19react)</p>
-  - <p>3. Student management system----->(http://deepak.42web.io/sms]</p>
-  - <p>4.To-do ----->(http://deepak.42web.io/todo)</p>
-- 👨‍💻 Programming languages known👨‍💻
-  - <p>JAVA(Intermediate)</p>
-  - <p>PYTHON(Intermediate)</p>
   
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
