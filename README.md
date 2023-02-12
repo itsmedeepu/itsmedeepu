@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="itsmedeepu"  width="100%" height="300px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="itsmedeepu" width="800px"  height="300px"/></p>
 <h1 align="center">Hi 👋, I'm DEEPAK S</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedeepu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedeepu" /> </p>
