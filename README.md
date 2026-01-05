@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="100%" alt="Lofi Header" />
+<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="100%" height="70%" alt="Lofi Header" />
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Deepak+S;Full+Stack+Developer;Software+Engineer;Docker+Enthusiast" alt="Typing SVG" />
