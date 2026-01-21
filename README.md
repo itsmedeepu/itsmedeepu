@@ -1,65 +1,121 @@
+# Hi there, I'm [Your Name] 👋
+
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" width="100%" height="30%" alt="Lofi Header" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Deepak+S;Full+Stack+Developer;Software+Engineer;Docker+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=itsmedeepu&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="itsmedeepu" />
-
----
-
-### 💫 About Me
-- 🔭 I’m currently working on improving my **Full Stack** development skills.
-- 🚢 Learning **Docker** to containerize and scale applications efficiently.
-- ⚡ Fun fact: I love clean code and aesthetic UI designs.
-- 💬 Ask me about **Java, Python, or Web Dev**.
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,js,html,css" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,mysql" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=bootstrap" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,vscode,git,github" /> |
-
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsmedeepu&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 My Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmedeepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmedeepu&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Languages" />
 </div>
 
-<br />
+## 🚀 About Me
+
+- 🔭 I'm currently working on **[Your Current Project]**
+- 🌱 I'm currently learning **[Technologies you're learning]**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **[Your expertise areas]**
+- 📫 How to reach me: **[your.email@example.com]**
+- ⚡ Fun fact: **[Something interesting about you]**
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedeepu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+## 🎯 Profile Summary
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=radical)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=radical)
+
+</div>
+
+## 🌟 Achievements & Highlights
+
+- 🥇 **[Achievement 1]** - [Brief description]
+- 🥈 **[Achievement 2]** - [Brief description]
+- 🥉 **[Achievement 3]** - [Brief description]
+- ⭐ **[Stars earned]** stars across repositories
+- 🍴 **[Forks]** forks on projects
+- 🤝 **[Contributors]** on open source projects
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7aa2f7&height=100&section=footer" width="100%" />
-</p>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
 
 </div>
